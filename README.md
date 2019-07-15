@@ -1,5 +1,5 @@
 # Arduino----MPU6050
-Print the angles out of MPU6050 
+Print the angles out of MPU6050. Well, MPU6050 is a 3 axis gyroscope + 3 axis accelerometer with a temperature sensor and a Digital Motion Processing(DMP) unit. It uses the I2C connection.  
 
 # Connections:
 We are using Arduino Nano.<br>
