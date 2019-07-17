@@ -14,3 +14,6 @@ MPU6050 --> Arduino
 
 # About the program
 We're going to use *Wire.h* library for the I2C connection.  
+
+Raw_gyro will only read the acceleration, gyroscope values and print them on the screen.  
+whereas Gyro_MPU6050 will first read the raw values from the sensor and then filter them to produce accurate angles.
